@@ -1,0 +1,26 @@
+C:\Users\Mikae\OneDrive\Documentos\GitHub\ProjetoMVC-Sistema-de-Cadastro\Sistema de Cadastro\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Mikae\OneDrive\Documentos\GitHub\ProjetoMVC-Sistema-de-Cadastro\Sistema de Cadastro\bin\Debug\net6.0\appsettings.json
+C:\Users\Mikae\OneDrive\Documentos\GitHub\ProjetoMVC-Sistema-de-Cadastro\Sistema de Cadastro\bin\Debug\net6.0\Sistema de Cadastro.staticwebassets.runtime.json
+C:\Users\Mikae\OneDrive\Documentos\GitHub\ProjetoMVC-Sistema-de-Cadastro\Sistema de Cadastro\bin\Debug\net6.0\Sistema de Cadastro.exe
+C:\Users\Mikae\OneDrive\Documentos\GitHub\ProjetoMVC-Sistema-de-Cadastro\Sistema de Cadastro\bin\Debug\net6.0\Sistema de Cadastro.deps.json
+C:\Users\Mikae\OneDrive\Documentos\GitHub\ProjetoMVC-Sistema-de-Cadastro\Sistema de Cadastro\bin\Debug\net6.0\Sistema de Cadastro.runtimeconfig.json
+C:\Users\Mikae\OneDrive\Documentos\GitHub\ProjetoMVC-Sistema-de-Cadastro\Sistema de Cadastro\bin\Debug\net6.0\Sistema de Cadastro.dll
+C:\Users\Mikae\OneDrive\Documentos\GitHub\ProjetoMVC-Sistema-de-Cadastro\Sistema de Cadastro\bin\Debug\net6.0\Sistema de Cadastro.pdb
+C:\Users\Mikae\OneDrive\Documentos\GitHub\ProjetoMVC-Sistema-de-Cadastro\Sistema de Cadastro\obj\Debug\net6.0\Sistema de Cadastro.csproj.AssemblyReference.cache
+C:\Users\Mikae\OneDrive\Documentos\GitHub\ProjetoMVC-Sistema-de-Cadastro\Sistema de Cadastro\obj\Debug\net6.0\Sistema de Cadastro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mikae\OneDrive\Documentos\GitHub\ProjetoMVC-Sistema-de-Cadastro\Sistema de Cadastro\obj\Debug\net6.0\Sistema de Cadastro.AssemblyInfoInputs.cache
+C:\Users\Mikae\OneDrive\Documentos\GitHub\ProjetoMVC-Sistema-de-Cadastro\Sistema de Cadastro\obj\Debug\net6.0\Sistema de Cadastro.AssemblyInfo.cs
+C:\Users\Mikae\OneDrive\Documentos\GitHub\ProjetoMVC-Sistema-de-Cadastro\Sistema de Cadastro\obj\Debug\net6.0\Sistema de Cadastro.csproj.CoreCompileInputs.cache
+C:\Users\Mikae\OneDrive\Documentos\GitHub\ProjetoMVC-Sistema-de-Cadastro\Sistema de Cadastro\obj\Debug\net6.0\Sistema de Cadastro.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Mikae\OneDrive\Documentos\GitHub\ProjetoMVC-Sistema-de-Cadastro\Sistema de Cadastro\obj\Debug\net6.0\Sistema de Cadastro.RazorAssemblyInfo.cache
+C:\Users\Mikae\OneDrive\Documentos\GitHub\ProjetoMVC-Sistema-de-Cadastro\Sistema de Cadastro\obj\Debug\net6.0\Sistema de Cadastro.RazorAssemblyInfo.cs
+C:\Users\Mikae\OneDrive\Documentos\GitHub\ProjetoMVC-Sistema-de-Cadastro\Sistema de Cadastro\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Mikae\OneDrive\Documentos\GitHub\ProjetoMVC-Sistema-de-Cadastro\Sistema de Cadastro\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Mikae\OneDrive\Documentos\GitHub\ProjetoMVC-Sistema-de-Cadastro\Sistema de Cadastro\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Mikae\OneDrive\Documentos\GitHub\ProjetoMVC-Sistema-de-Cadastro\Sistema de Cadastro\obj\Debug\net6.0\scopedcss\bundle\Sistema de Cadastro.styles.css
+C:\Users\Mikae\OneDrive\Documentos\GitHub\ProjetoMVC-Sistema-de-Cadastro\Sistema de Cadastro\obj\Debug\net6.0\scopedcss\projectbundle\Sistema de Cadastro.bundle.scp.css
+C:\Users\Mikae\OneDrive\Documentos\GitHub\ProjetoMVC-Sistema-de-Cadastro\Sistema de Cadastro\obj\Debug\net6.0\Sistema de Cadastro.dll
+C:\Users\Mikae\OneDrive\Documentos\GitHub\ProjetoMVC-Sistema-de-Cadastro\Sistema de Cadastro\obj\Debug\net6.0\refint\Sistema de Cadastro.dll
+C:\Users\Mikae\OneDrive\Documentos\GitHub\ProjetoMVC-Sistema-de-Cadastro\Sistema de Cadastro\obj\Debug\net6.0\Sistema de Cadastro.pdb
+C:\Users\Mikae\OneDrive\Documentos\GitHub\ProjetoMVC-Sistema-de-Cadastro\Sistema de Cadastro\obj\Debug\net6.0\Sistema de Cadastro.genruntimeconfig.cache
+C:\Users\Mikae\OneDrive\Documentos\GitHub\ProjetoMVC-Sistema-de-Cadastro\Sistema de Cadastro\obj\Debug\net6.0\ref\Sistema de Cadastro.dll
