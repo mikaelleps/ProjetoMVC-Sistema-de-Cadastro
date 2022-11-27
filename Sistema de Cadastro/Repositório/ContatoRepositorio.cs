@@ -10,6 +10,10 @@ namespace Sistema_de_Cadastro.Repositório
         {
             _bancoContext = bancoContext;
         }
+        public List<ContatoModel> BuscarTodos()
+        {
+            return _bancoContext.Contatos.ToList();
+        }
         public ContatoModel Adicionar(ContatoModel contato)
         {
             //Gravar no banco de dados
